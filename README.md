@@ -7,3 +7,8 @@ This repository is a quick demo, how a pull request can be used to deploy resour
 ## The Github action
 
 ## The process
+
+
+## References
+
+[Github Action Sample](https://github.com/Azure-Samples/bicep-github-actions)
